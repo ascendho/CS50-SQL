@@ -7,6 +7,6 @@
 *.csv linguist-documentation
 *.db linguist-vendored
 
-# 将 notes 和 slides 目录标记为文档
-notes/* linguist-documentation
-slides/* linguist-documentation
+# 将 notes 和 slides 目录标记为文档（使用 ** 匹配任意深度的目录）
+**/notes/** linguist-documentation
+**/slides/** linguist-documentation
