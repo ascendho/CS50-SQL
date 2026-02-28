@@ -2,7 +2,7 @@
 
 ![templeworkerstipends](assets/templeworkerstipends.jpg)
 
-![CS50 SQL Certificate](certificate/CS50%20SQL.png)
-
 这是 CS50 的数据库入门课程，将使用一种名为 SQL 的语言进行教学。你将学习如何通过关系型数据库（这种数据库以行和列的形式存储数据）来创建、读取、更新和删除数据；学习如何使用具有适当类型、触发器和约束的表，对现实世界中的实体及其之间的关系进行建模；学习如何对数据进行规范化，以消除冗余并减少潜在的错误；学习如何使用主键和外键将表连接起来；学习如何通过视图实现搜索自动化，以及通过索引加快搜索速度；学习如何将 SQL 与 Python、Java 等其他语言相结合。本课程出于可移植性考虑，从 SQLite 开始教学，最后还会介绍 PostgreSQL 和 MySQL，以满足可扩展性需求。课程作业的设计灵感来源于现实世界的数据集。
 
+## Certificate
+![CS50 SQL Certificate](certificate/CS50%20SQL.png)
